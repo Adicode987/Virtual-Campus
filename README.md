@@ -51,19 +51,24 @@ Virtual-Campus/
 ├── build/           # Compiled binary output
 └── README.md        # Project information and instructions
 
-🛠️ Setup Instructions
-📦 Prerequisites
-Make sure g++ is installed and available in your terminal.
+```
 
-🧪 Clone and Build
-bash
-Copy
-Edit
-# Clone the repo
+---
+
+## 🛠️ Setup Instructions
+
+### 📦 Prerequisite
+
+Ensure `g++` is installed and available in your terminal.
+
+### ⚙️ Steps to Run
+
+```bash
+# Clone the repository
 git clone https://github.com/Adicode987/Virtual-Campus.git
 cd Virtual-Campus
 
-# Create build folder
+# Create a build folder
 mkdir build
 
 # Compile the project
@@ -71,37 +76,4 @@ g++ src/main.cpp src/Global.cpp src/Announcement.cpp src/LostAndFound.cpp -Iincl
 
 # Run the app
 ./build/app.exe
-📁 Required Data Files (inside data/ folder)
-Ensure these files exist (can be empty initially):
-
-announcements.txt
-
-books.txt
-
-borrowed.txt
-
-courses.txt
-
-credentials.txt
-
-enrollments.txt
-
-lost_and_found.txt
-
-pending.txt
-
-professors.txt
-
-You may populate them with sample data to test functionalities.
-
-
-💻 Demo Preview
-Coming Soon! Stay tuned for a working terminal demo GIF.
-
-🤝 Contributing
-Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change or improve.
-
-📜 License
-This project is licensed under the MIT License.
-
 ```
