@@ -23,6 +23,24 @@ A **lightweight, terminal-based C++ application** that simulates a virtual unive
 
 ---
 
+## 🧠 Technologies Used
+
+- C++ (OOP + STL)
+- File I/O for lightweight persistent storage
+- Modular structure (`.h` / `.cpp`)
+- Console UI (terminal-based, cross-platform)
+
+---
+
+## 🌱 Future Enhancements
+
+- ✅ Attendance Tracking System
+- ✅ Grading and Exam Score Management
+- ✅ Event & Workshop Management
+- ✅ Club & Society Membership Management
+
+---
+
 ## 🗂️ Folder Structure
 
 ```bash
@@ -32,6 +50,7 @@ Virtual-Campus/
 ├── data/            # Flat files storing app state
 ├── build/           # Compiled binary output
 └── README.md        # Project information and instructions
+
 🛠️ Setup Instructions
 📦 Prerequisites
 Make sure g++ is installed and available in your terminal.
@@ -75,23 +94,6 @@ professors.txt
 
 You may populate them with sample data to test functionalities.
 
-🧠 Technologies Used
-C++ (OOP + STL)
-
-File I/O for lightweight persistent storage
-
-Modular structure (.h / .cpp)
-
-Console UI (terminal-based, cross-platform)
-
-🌱 Future Enhancements
-✅ Attendance Tracking System
-
-✅ Grading and Exam Score Management
-
-✅ Event & Workshop Management
-
-✅ Club & Society Membership Management
 
 💻 Demo Preview
 Coming Soon! Stay tuned for a working terminal demo GIF.
@@ -102,3 +104,4 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 📜 License
 This project is licensed under the MIT License.
 
+```
