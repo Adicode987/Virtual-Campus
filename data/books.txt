@@ -1,0 +1,20 @@
+B001
+Introduction to Algorithms|Thomas H. Cormen|5
+B002
+Computer Networks|Andrew S. Tanenbaum|4
+B003
+Operating System Concepts|Abraham Silberschatz|6
+B004
+Database System Concepts|Abraham Silberschatz|3
+B005
+Discrete Mathematics and Its Applications|Kenneth Rosen|5
+B006
+Modern Physics|Kenneth Krane|4
+B007
+Linear Algebra and Its Applications|Gilbert Strang|2
+B008
+Introduction to Probability|Joseph K. Blitzstein|3
+B009
+Digital Design|M. Morris Mano|4
+B010
+Chemistry: The Central Science|Theodore L. Brown|3
